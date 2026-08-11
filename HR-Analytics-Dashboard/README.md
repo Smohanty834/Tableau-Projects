@@ -6,7 +6,7 @@ The dashboard provides a consolidated view of key HR metrics and helps identify 
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](./screenshots/HR_Analytics_Dashboard.png)
+<img src="./screenshots/HR_Analytics_Dashboard.png" width="900">
 
 ## 🎯 Objectives
 
